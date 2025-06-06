@@ -14,7 +14,7 @@ Este bloque de función (FB) permite mapear, normalizar entradas digitales en un
 - `inRawByte` → Byte de entrada con las señales digitales reales
 
 ### Entrada (`cfgSignalData`):
-- `nSignalIndex[0..7]        ` → Mapeo de señal a índice interno
+- `nSignalIndex[0..7]`         → Mapeo de señal a índice interno
 - `bSignalNormallyOpen[0..7]`  → Tipo de contacto (TRUE = NA, FALSE = NC)
 
 ### Salidas:
